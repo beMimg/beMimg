@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm a full-stack web developer based in Cádiz, Spain, driven by a passion for learning and a commitment to delivering high-quality websites. I specialize in building engaging and responsive user experiences. I'm naturally curious and always striving to learn the best practices for delivering top-quality results.<br>
+Hi, I'm a full-stack web developer, driven by a passion for learning and a commitment to delivering high-quality websites. I specialize in building engaging and responsive user experiences. I'm naturally curious and always striving to learn the best practices for delivering top-quality results.<br>
 
 
 ## 🌐 Socials:
