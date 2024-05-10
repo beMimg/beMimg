@@ -8,7 +8,7 @@ I've been all about tourism for most of my life, but 2022 was a game-changer whe
 
 Though I'm still in the tourism industry, I've been actively immersing myself in coding. Every day, I'm committed to learning new tools and writing code because I'm determined to make programming my career.
 
-Throughout my programming journey, I've been actively engaged in The Odin Project community. Whether seeking advice on best practices, offering assistance to others, or contributing to the open-source curriculum.
+Throughout my programming journey, I've been actively engaged in [The Odin Project Community](https://github.com/TheOdinProject). Whether seeking advice on best practices, offering assistance to others, or contributing to the open-source curriculum.
 
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
