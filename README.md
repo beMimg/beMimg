@@ -1,8 +1,5 @@
 # Nice to meet you! I'm Bernardo (beMimg)
 
-## Last update - May 2024
-I've completed The Odin Project! Now, I'm excited to dive into TypeScript and take my skills to the next level. It feels great to be learning something new again. Currently, I'm working on a website for a pizza restaurant, which marks my first real project with an actual company. It's a full-stack project. The restaurant owner will have the ability to easily manage the menu by adding, deleting, or modifying items as needed through an admin dashboard.
-
 ## About me
 I've been working in tourism industry for most of my life, but 2022 was a game-changer when I found out I was going to be a dad. That lit a fire under me to chase after my dreams like never before. Programming has always fascinated me, and I'm really happy I made this switch. 
 
