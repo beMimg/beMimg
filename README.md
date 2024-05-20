@@ -1,9 +1,7 @@
 # Nice to meet you! I'm Bernardo (beMimg)
 
 ## About me
-I've been working in tourism industry for most of my life, but 2022 was a game-changer when I found out I was going to be a dad. That lit a fire under me to chase after my dreams like never before. Programming has always fascinated me, and I'm really happy I made this switch. 
-
-Though I'm still working in the tourism industry, I've been actively immersing myself in coding. Every day, I'm committed to learning new tools and writing code because I'm determined to make programming my career.
+Full Stack JavaScript Developer experienced on the MERN Stack (MongoDB, Express, React & Node).
 
 Throughout my programming journey, I've been actively engaged in [The Odin Project Community](https://github.com/TheOdinProject). Whether seeking advice on best practices, offering assistance to others, or contributing to the open-source curriculum.
 
