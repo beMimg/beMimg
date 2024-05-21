@@ -2,6 +2,7 @@
 
 ## About me
 Full Stack JavaScript Developer experienced on the MERN Stack (MongoDB, Express, React & Node).
+I've honed my skills through self-learning and hands-on projects. I'm passionate about problem-solving, coding and learning. After a long journey driven by my passion for programming, I've decided to make a career change to pursue this dream.
 
 Throughout my programming journey, I've been actively engaged in [The Odin Project Community](https://github.com/TheOdinProject). Whether seeking advice on best practices, offering assistance to others, or contributing to the open-source curriculum.
 
