@@ -8,16 +8,14 @@ Throughout my programming journey, I've been actively engaged in [The Odin Proje
 
 ## Recent Projects
 
-Most of my programming skills have been honed through [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum). It's a open-source resource covering everything from full-stack development to building that programmer mindset.
-
 Some of the recent projects:
 
-- [X Clone](https://github.com/beMimg/frontend_x_clone) built with React, TailwindCSS, Node, MongoDB.
-- [Messaging App](https://github.com/beMimg/frontend_messaging_app) built with React, TailwindCSS, Node, MongoDB.
-- [be Blog](https://github.com/beMimg/frontend_beBlog) built with React, TailwindCSS, Node, MongoDB.
-- [Movie Wish](https://github.com/beMimg/movies-app) built with React, TailwindCSS.
-- [NexusPlay](https://github.com/beMimg/nexus-play) built with React, TailwindCSS.
-- [Battleship](https://github.com/beMimg/battleship) built with Javascript, HTML, CSS, Jest.
+- [Personal Website](https://bemimg.com) built with Next.js, React, JavaScript, TypeScript, TailwindCSS
+- [PMG Solutions & Development](https://pmg-solutions.es) built with React, TypeScript, JavaScript, TailwindCSS
+- [X Clone](https://github.com/beMimg/frontend_x_clone) built with React, JavaScript, TailwindCSS, Node.js, MongoDB.
+- [Messaging App](https://github.com/beMimg/frontend_messaging_app) built with React, JavaScript, TailwindCSS, Node, MongoDB.
+- [be Blog](https://github.com/beMimg/frontend_beBlog) built with React, TailwindCSS, Node.js, MongoDB.
+- [Movie Wish](https://github.com/beMimg/movies-app) built with React, JavaScript, TailwindCSS.
 
 ## My skills
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
