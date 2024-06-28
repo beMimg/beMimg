@@ -12,7 +12,7 @@ Some of the recent projects:
 
 - [Personal Website](https://bemimg.com) built with Next.js, React, JavaScript, TypeScript, TailwindCSS
 - [PMG Solutions & Development](https://pmg-solutions.es) built with React, TypeScript, JavaScript, TailwindCSS
-- [X Clone](https://github.com/beMimg/frontend_x_clone) built with React, JavaScript, TailwindCSS, Node.js, MongoDB.
+- [X Clone](https://github.com/beMimg/x-clone-frontend) built with React, JavaScript, TailwindCSS, Node.js, MongoDB.
 - [Messaging App](https://github.com/beMimg/frontend_messaging_app) built with React, JavaScript, TailwindCSS, Node, MongoDB.
 - [be Blog](https://github.com/beMimg/frontend_beBlog) built with React, TailwindCSS, Node.js, MongoDB.
 - [Movie Wish](https://github.com/beMimg/movies-app) built with React, JavaScript, TailwindCSS.
