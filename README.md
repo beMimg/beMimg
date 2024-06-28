@@ -10,8 +10,8 @@ Throughout my programming journey, I've been actively engaged in [The Odin Proje
 
 Some of the recent projects:
 
-- [Personal Website](https://bemimg.com) built with Next.js, React, JavaScript, TypeScript, TailwindCSS
-- [PMG Solutions & Development](https://pmg-solutions.es) built with React, TypeScript, JavaScript, TailwindCSS
+- [Personal Website](https://github.com/beMimg/bemimg-website) built with Next.js, React, JavaScript, TypeScript, TailwindCSS
+- [PMG Solutions & Development](https://github.com/beMimg/PMG) built with React, TypeScript, JavaScript, TailwindCSS
 - [X Clone](https://github.com/beMimg/x-clone-frontend) built with React, JavaScript, TailwindCSS, Node.js, MongoDB.
 - [Messaging App](https://github.com/beMimg/frontend_messaging_app) built with React, JavaScript, TailwindCSS, Node, MongoDB.
 - [be Blog](https://github.com/beMimg/frontend_beBlog) built with React, TailwindCSS, Node.js, MongoDB.
